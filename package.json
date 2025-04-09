@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Natanael-Heinrick/secretary-api-mysql/issues"
   },
-  "homepage": "https://github.com/Natanael-Heinrick/secretary-api-mysql#readme"
+  "homepage": "https://github.com/Natanael-Heinrick/secretary-api-mysql#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
