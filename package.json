@@ -1,0 +1,20 @@
+{
+  "name": "secretary-api-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natanael-Heinrick/secretary-api-mysql.git"
+  },
+  "keywords": [],
+  "author": "Matheus <makelovin@lovin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Natanael-Heinrick/secretary-api-mysql/issues"
+  },
+  "homepage": "https://github.com/Natanael-Heinrick/secretary-api-mysql#readme"
+}
