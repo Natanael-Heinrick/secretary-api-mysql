@@ -18,11 +18,15 @@
   },
   "homepage": "https://github.com/Natanael-Heinrick/secretary-api-mysql#readme",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^5.1.0",
     "mysql2": "^3.14.0",
     "sequelize": "^6.37.7"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "husky": "^9.1.7",
     "nodemon": "^3.1.9"
   }
 }
